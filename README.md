@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
     </td>
     <td align="center" width="96">
       <a href="#mongodb">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
       </a>
       <br>MongoDB
     </td>
