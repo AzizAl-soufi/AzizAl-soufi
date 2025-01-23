@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in system analyst & mobile apps developement and cybersecurity, I'm dedicated to building robust and secure software.
 
-<video align="right" height="150" src="https://i.imgflip.com/926jyf.mp4"  />
+<img align="right" height="150" src="https://imgflip.com/gif/8fbpf6"  />
 
 
 ### 📱 Mobile Apps | 🌐 Web | 💻 Desktop | 🔬 System analysis | 🔒 Cybersecurity
