@@ -94,8 +94,6 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
 </h3>
 
 
-  <img align="center" src="https://streak-stats.demolab.com/?user=AzizAl-soufi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&&bg_color=0000000" alt="Aziz Streak Stats"/>
-
 ### 🍁 My skill stack :
 
 |               |           |
