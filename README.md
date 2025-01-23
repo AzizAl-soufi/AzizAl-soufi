@@ -28,10 +28,10 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <a href="#dart">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+      <a href="#docker">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
       </a>
-      <br>Dart
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#python">
@@ -68,6 +68,18 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
       </a>
       <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#django">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#django">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+      </a>
+      <br>Django
     </td>
   </tr>
 </table
