@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
 </h3>
 
 <h3 align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=DrDataYE&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&&bg_color=00000000" alt="DrDataYE Streak Stats"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=AzizAl-soufi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&&bg_color=00000000" alt="DrDataYE Streak Stats"/>
 </h3>
 
 
