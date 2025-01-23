@@ -75,12 +75,6 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
       </a>
       <br>Django
     </td>
-    <td align="center" width="96">
-      <a href="#django">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-      </a>
-      <br>Django
-    </td>
   </tr>
 </table
 
