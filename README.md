@@ -3,14 +3,23 @@
 </p>
 
 
-# Hello, I'm [ Aziz Al-soufi ] 
+# Hello, I'm  Aziz Al-soufi 
 
 Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in system analyst & mobile apps developement and cybersecurity, I'm dedicated to building robust and secure software.
 
-
 <img align="right" height="150" src="https://i.imgflip.com/9hmxdt.gif"  />
+<p align="center">
 
-### Mobile Apps | Web | Desktop | 🔬 System analysis | Cybersecurity
+![Committers](https://user-badge.committers.top/yemen/AzizAl-soufi.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=AzizAl-soufi&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/AzizAl-soufi?style=social)
+<br>
+[![GitHub](https://img.shields.io/badge/GitHub-100000-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizAl-soufi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcn4)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/class_error)
+</p>
+
+### Mobile Apps | Web | Desktop | System analysis | Cybersecurity
 - Exploring new technologies and pushing the boundaries of what's possible.
 - Crafting elegant code while ensuring top-notch security measures.
 - Transforming ideas into functional and user-friendly applications.
@@ -107,24 +116,6 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
 
 
 ___  
-
-
- 
-
-___  
-
-### Some statistics:
-![Committers](https://user-badge.committers.top/yemen/AzizAl-soufi.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=AzizAl-soufi&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/AzizAl-soufi?style=social)
-
-
-### Connect with me:
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizAl-soufi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcn4)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/class_error)
-
 
 
 <h2> Github Profile Trophy</h2>
