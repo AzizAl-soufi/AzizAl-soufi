@@ -3,22 +3,22 @@
 </p>
 
 
-# Hello, I'm [ Aziz Al-soufi ] :raised_hand_with_fingers_splayed:
+# Hello, I'm [ Aziz Al-soufi ] 
 
 Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in system analyst & mobile apps developement and cybersecurity, I'm dedicated to building robust and secure software.
 
 
 <img align="right" height="150" src="https://i.imgflip.com/9hmxdt.gif"  />
 
-### 📱 Mobile Apps | 🌐 Web | 💻 Desktop | 🔬 System analysis | 🔒 Cybersecurity
-- 🔭 Exploring new technologies and pushing the boundaries of what's possible.
-- 🧠 Crafting elegant code while ensuring top-notch security measures.
-- 💡 Transforming ideas into functional and user-friendly applications.
-- 🌟 Constantly learning and staying updated in the ever-evolving tech landscape.
+### Mobile Apps | Web | Desktop | 🔬 System analysis | Cybersecurity
+- Exploring new technologies and pushing the boundaries of what's possible.
+- Crafting elegant code while ensuring top-notch security measures.
+- Transforming ideas into functional and user-friendly applications.
+- Constantly learning and staying updated in the ever-evolving tech landscape.
 
 ###
 
-## 🔨 Favorite technologies 😁
+## Favorite technologies
 <table>
   <tr>
     <td align="center" width="96">
@@ -83,18 +83,18 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
 
 
 
-### 📊 Some Fun Stats:
+### Some Fun Stats:
 | ![AzizAl-soufi GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizAl-soufi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My%20Stats&bg_color=00000000) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AzizAl-soufi&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/AzizAl-soufi)  |
 |---|---|
 
-### 😺 Github Streak 
+### Github Streak 
 
 <h3 align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=AzizAl-soufi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&&bg_color=00000000" alt="Aziz's Streak Stats"/>
 </h3>
 
 
-### 🍁 My skill stack :
+### My stack :
 
 |               |           |
 |       ---     |    ---    |
@@ -113,13 +113,13 @@ ___
 
 ___  
 
-### ✌️ Some statistics:
+### Some statistics:
 ![Committers](https://user-badge.committers.top/yemen/AzizAl-soufi.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=AzizAl-soufi&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/AzizAl-soufi?style=social)
 
 
-### 🤝 Connect with me:
+### Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizAl-soufi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcn4)
@@ -127,7 +127,7 @@ ___
 
 
 
-<h2>🏆 Github Profile Trophy</h2>
+<h2> Github Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=AzizAl-soufi&column=8&theme=algolia&no-frame=true"/>
 </a>
