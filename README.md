@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Aziz, a passionate programmer and skilled deve
 ![Profile Views](https://komarev.com/ghpvc/?username=AzizAl-soufi&color=blue&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/AzizAl-soufi?style=social)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizAl-soufi)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzizAl-soufi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcn4)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/class_error)
 </p>
